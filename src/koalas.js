@@ -1,4 +1,5 @@
-const koalas = [
+// Write an export statement for the koalas array in koalas.js so the array can be imported by other files.
+export const koalas = [
     {
         name: 'Basil',
         description: `This koala is loving towards me, and will always come when called. She is distrustful of strangers, and dislikes other koalas.`,
